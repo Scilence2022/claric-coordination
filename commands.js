@@ -1,0 +1,1 @@
+(()=>{"use strict";Office.onReady(()=>{}),Office.actions.associate("action",function(c){c.completed()})})();
