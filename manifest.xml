@@ -8,8 +8,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Claric — AI Writing &amp; Editing Assistant for Word"/>
   <Description DefaultValue="Draft, polish, and revise documents with AI inside Word — every change lands as native tracked edits you review before anything is applied. Great for papers, theses, contracts, and everyday writing. Bring your own OpenAI-compatible model."/>
-  <IconUrl DefaultValue="https://scilence2022.github.io/claric-addin/assets/icon-64.png?v=279be33d71"/>
-  <HighResolutionIconUrl DefaultValue="https://scilence2022.github.io/claric-addin/assets/icon-80.png?v=279be33d71"/>
+  <IconUrl DefaultValue="https://scilence2022.github.io/claric-coordination/assets/icon-64.png?v=279be33d71"/>
+  <HighResolutionIconUrl DefaultValue="https://scilence2022.github.io/claric-coordination/assets/icon-80.png?v=279be33d71"/>
   <SupportUrl DefaultValue="https://github.com/Scilence2022/Claric/issues"/>
   <AppDomains>
     <AppDomain>api.deepseek.com</AppDomain>
@@ -30,7 +30,7 @@
     </Sets>
   </Requirements>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://scilence2022.github.io/claric-addin/taskpane.html"/>
+    <SourceLocation DefaultValue="https://scilence2022.github.io/claric-coordination/taskpane.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
